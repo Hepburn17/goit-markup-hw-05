@@ -227,6 +227,10 @@ address {
     gap: 24px;
 }
 
+.what-are-we-doing {
+    padding-top: 0;
+}
+
 
 .header3 {
     font-family: Roboto;
