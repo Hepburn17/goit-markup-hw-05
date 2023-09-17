@@ -9,6 +9,7 @@
     --color-green: #31D0AA;
     --color-dairy: #fcfcfc;
     --color-cornflower: #E7E9FC;
+    --color-lightslate: #8E8F99;
 }
 
 h1,
@@ -380,7 +381,8 @@ address {
 
 .customers-icon {
     width: 100%;
-    fill: var(--color-slate);
+    fill: var(--color-lightslate);
+    cursor: pointer;
 }
 
 .customers-item {
@@ -687,6 +689,7 @@ address {
 .overlay-container {
     position: relative;
     overflow: hidden;
+    cursor: pointer;
 }
 
 .overlay-text {
