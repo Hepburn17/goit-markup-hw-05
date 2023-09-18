@@ -382,7 +382,6 @@ address {
 .customers-icon {
     width: 100%;
     fill: var(--color-lightslate);
-    cursor: pointer;
 }
 
 .customers-item {
@@ -394,6 +393,7 @@ address {
     color: var(--color-slate);
     border-radius: 4px;
     border: 1px solid var(--color-slate);
+    cursor: pointer;
 }
 
 /*-----*/
